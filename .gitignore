@@ -1,4 +1,5 @@
 .zed/
 venv/
-test.*
+test.py
+test.ipynb
 playground.*
